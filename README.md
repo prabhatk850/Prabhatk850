@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏫 I'm a computer science Engineering Graduate (2017-2021).<br>🌱 I’m currently learning everything 🤣<br>👯 I’m looking to collaborate with other content creators.<br>🔭 I’m currently working on Microservices ReactJs <br>🧍‍♂️ I'm currently a member at Coforge Pvt Ltd.<br>😁 Pronouns: He/His/Him
+🏫 I'm a computer science Engineering Graduate (2017-2021).<br>🌱 I’m currently learning everything 🤣<br>👯 I’m looking to collaborate with other developers.<br>🔭 I’m currently working on Microservices ReactJs <br>😁 Pronouns: He/His/Him
 
 
 ## 🌐 Socials:
